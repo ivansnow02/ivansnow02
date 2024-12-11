@@ -5,13 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivansnow02&label=Profile%20views&color=0e75b6&style=flat" alt="ivansnow02" /> </p>
 
+
+
 ## Introduction
 
 - 🌱 I’m currently learning **Computer graphics and backend**
 
 - 📝 I regularly write articles on [blog.ivansnow02.xyz](blog.ivansnow02.xyz)
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivansnow02/ivansnow02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivansnow02/ivansnow02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ivansnow02/ivansnow02/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -71,25 +81,20 @@
 
 ## Github Stats  
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ivansnow02&show_icons=true&count_private=true&theme=catppuccin_mocha"/>
-
-## Top Langs
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansnow02&hide=html&theme=catppuccin_mocha"/><br/>
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ivansnow02&show_icons=true&count_private=true&theme=catppuccin_mocha" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansnow02&hide=html&theme=catppuccin_mocha&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
 
 ## Trophy
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ivansnow02&no-bg=true&no-frame=true&theme=tokyonight&column=-1" alt="ivansnow02" />
   </a> 
-
+</div>
 ## Streak
-
+<div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivansnow02&theme=catppuccin-mocha" alt="ivansnow02" />
+</div>
 
-## Commits
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivansnow02/ivansnow02/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivansnow02/ivansnow02/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ivansnow02/ivansnow02/output/github-contribution-grid-snake.svg">
-</picture>
