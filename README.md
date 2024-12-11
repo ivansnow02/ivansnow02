@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋 I'm IOyuk1nia</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=B3B3B3&center=true&vCenter=true&multiline=true&random=true&width=600&lines=A+college+student+learning+computer+science" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivansnow02&label=Profile%20views&color=0e75b6&style=flat" alt="ivansnow02" /> </p>
