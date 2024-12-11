@@ -1,18 +1,25 @@
-## Hi there 👋
 
-<!--
-**ivansnow02/ivansnow02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Ivan</h1>
+<h3 align="center">A college student learning computer science</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivansnow02&label=Profile%20views&color=0e75b6&style=flat" alt="ivansnow02" /> </p>
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivansnow02&count_private=true&show_icons=true&theme=catppuccin_mocha)
+
+
+- 🌱 I’m currently learning **Computer graphics and backend**
+
+- 📝 I regularly write articles on [blog.ivansnow02.xyz](blog.ivansnow02.xyz)
+
+<p align="left">
+</p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivansnow02&show_icons=true&locale=en&layout=compact" alt="ivansnow02" width="500"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivansnow02&show_icons=true&locale=en" alt="ivansnow02" width="500"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivansnow02&" alt="ivansnow02" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivansnow02" alt="ivansnow02" /></a> </p>
