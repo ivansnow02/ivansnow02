@@ -94,7 +94,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ivansnow02&no-bg=true&no-frame=true&theme=tokyonight&column=-1" alt="ivansnow02" />
   </a> 
 </div>
+
 ## Streak
+
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivansnow02&theme=catppuccin-mocha" alt="ivansnow02" />
 </div>
