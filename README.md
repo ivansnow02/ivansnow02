@@ -88,6 +88,7 @@
 </div>
 
 ## Trophy
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ivansnow02&no-bg=true&no-frame=true&theme=tokyonight&column=-1" alt="ivansnow02" />
