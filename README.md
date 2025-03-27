@@ -11,7 +11,7 @@
 
 ## Introduction
 
-- 🌱 I’m currently learning **Computer graphics and backend**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📝 I regularly write articles on [blog.ivansnow02.xyz](blog.ivansnow02.xyz)
 
