@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋 I'm IOyuk1Nya</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=B3B3B3&center=true&vCenter=true&multiline=true&random=true&width=600&lines=A+college+student+learning+computer+science" alt="Typing SVG" /></a></h3>
 
 <!-- <img alt="neuro angle" src="https://github.com/ivansnow02/ivansnow02/blob/a4d24c7b8f40260630569a0da6de6891dbd6f785/0e837c11076b2852e4612c7c28384983390418501.png" /> -->
 
